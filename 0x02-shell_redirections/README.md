@@ -1,1 +1,1 @@
-hello world
+everything about shell redirections
